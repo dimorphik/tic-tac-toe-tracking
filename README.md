@@ -2,7 +2,7 @@
 
 A Tic Tac Toe game that lets the user go back to previous states of the game and forward again. It was intended to be an exercising in minimizing state complexity as defined by [this React exercise](https://epic-react-exercises.vercel.app/react/hooks/1).
 
-Gimme a break. I was bored.
+Gimme a break. I was bored!
 
 # Getting Started with Create React App
 
